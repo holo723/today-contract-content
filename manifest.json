@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 1,
+  "packVersion": 1,
+  "schemaVersion": 1,
+  "reviewPolicyVersion": "1.0",
+  "minAppVersion": "1.0.0",
+  "publishedAt": "2026-10-28T22:47:13+08:00",
+  "reviewedAt": "2026-10-28T22:45:00+08:00",
+  "cardsUrl": "cards-v1.json",
+  "cardCount": 9,
+  "cardsSha256": "d36f5e10426f06b8a019bdfffe880aaaac47c5460d389f584abddedce21adedc"
+}
